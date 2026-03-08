@@ -2,7 +2,7 @@
 
 > "Precision without a pulse is just noise."
 
-For years I lived a double life: a National Math Olympiad finalist governed by logic and a creator obsessed with the movement of sound. This repository is the bridge. It is a computational exploration of how mathematical rigor can engineer raw emotional resonance. Through this project, I demonstrated that **subjective musical aesthetics** can be modeled and generated using the same stochastic principles found in advanced physics and structural engineering.
+For years I lived a double life: a National Math Olympiad finalist governed by logic and a creator obsessed with the movement of sound. This repository is the bridge. It is a computational exploration of how mathematical rigor can engineer raw emotional resonance. Through this project, I demonstrated that subjective musical aesthetics can be modeled and generated using the same stochastic principles found in advanced physics and structural engineering.
 
 ## THE PROJECTS
 
