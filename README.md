@@ -8,7 +8,7 @@ For years I lived a double life: a National Math Olympiad finalist governed by l
 
 ### PROJECT I: MUSIC DATA ANALYTICS
 **Objective:** Analyzing the mathematical correlation between acoustic entropy and commercial success.
-*   **Methodology:** I utilized Pearson Correlation Matrices and Bivariate Analysis to identify predictive patterns between normalized energy metrics and popularity indices.
+*   **Methodology:** I used Pearson Correlation Matrices and Bivariate Analysis to identify predictive patterns between normalized energy metrics and popularity indices.
 *   **Key Insight:** Discovered a strong linear correlation (r ≈ 0.78) between high energy coefficients and commercial performance, proving that "vibe" can be quantified.
 ![Music Data Dashboard](correlation_matrix.jpg)
 
@@ -31,8 +31,13 @@ For years I lived a double life: a National Math Olympiad finalist governed by l
 *   **Interface:** Streamlit 
 
 ## RUNNING THE PROJECT
+To launch the interactive portfolio locally, ensure you have Python installed and execute the following commands:
+
 ```bash
-pip install -r requirements.txt
+# Install dependencies
+python -m pip install -r requirements.txt
+
+# Launch the interactive portfolio
 streamlit run app.py
 ```
 
