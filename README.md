@@ -33,6 +33,6 @@ streamlit run app.py
 
 ## Author
 
-**Madeeha Rahman (Nari)**  
+**Madeeha Rahman**  
 *National Mathematical Olympiad Finalist*
 
